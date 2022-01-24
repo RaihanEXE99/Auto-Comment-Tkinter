@@ -7,3 +7,4 @@
 ### 🌗 Per Line == Comments & Auto close when task finished ❌
 ### New Feature (v 0.2):
 ⌚ Adjust Delay Time using slider
+👾 win7, win8 support added with win10
