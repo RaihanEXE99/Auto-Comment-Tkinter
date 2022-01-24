@@ -1,4 +1,4 @@
-# SpamBot-Tkinter
+# SpamBot🤖
 ⚡Auto Comment Software ( Using Tkinter Module *Python )
 #### 🚀Download "SpamBoT.zip" Then Extract , Click SpamBoT.exe
 ### 🔃Load -> Click Comment Box 📦 -> Press CTRL + ALT -> Done
