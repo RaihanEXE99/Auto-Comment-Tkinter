@@ -14,3 +14,10 @@
 
 #### (Version 0.2):
 👾 win7, win8 support added with win10
+
+
+-- | Delay |
+--- | --- |
+Facebook Chat | 0.1-0.2 Sec |
+Whatsapp | 0.1-0.2 Sec |
+Facebook Comments | 4-5 Sec |
