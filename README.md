@@ -2,7 +2,9 @@
 ⚡Auto Comment Software ( Using Tkinter Module *Python )
 #### 🚀Download "SpamBoT.zip" Then Extract , Click SpamBoT.exe
 ### 🔃Load -> Click Comment Box 📦 -> Press CTRL + ALT -> Done
+![ACt2](https://raw.githubusercontent.com/RaihanEXE99/Spam-Bot/main/Auto-Comment-Tkinter_%20Auto%20Comment%20Software(%20Using%20Tkinter%20Module%20_Python%20)RaihanEXE99.gif)
 ![ACT](https://raw.githubusercontent.com/RaihanEXE99/Spam-Bot/main/tutorial.gif)
+
 
 ### 🌗 Lines == Comments & Auto close when task finished ❌
 ### 🌔Facebook Chat/CommentBox/Whatsapp/Notepad/Any kind of text field 🔥
