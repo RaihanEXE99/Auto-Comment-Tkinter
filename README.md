@@ -8,6 +8,8 @@
 ## New Features 
 #### (Version 0.3):
 ⌚ Adjust Delay Time using slider (0.1 - 10.0Sec)
-🎆 Counter Added
+
+👾 Counter Added
+
 #### (Version 0.2):
 👾 win7, win8 support added with win10
