@@ -5,7 +5,7 @@
 ![ACT](https://raw.githubusercontent.com/RaihanEXE99/Auto-Comment-Tkinter/main/Auto-Comment-Tkinter_%20Auto%20Comment%20Software(%20Using%20Tkinter%20Module%20_Python%20)RaihanEXE99.gif)
 
 ### 🌗 Per Line == Comments & Auto close when task finished ❌
-### Facebook Chat/CommentBox/Whatsapp/Notepad/Any kind of text field 🔥
+### 🌔Facebook Chat/CommentBox/Whatsapp/Notepad/Any kind of text field 🔥
 ## New Features 
 #### (Version 0.3):
 ⌚ Adjust Delay Time using slider (0.1 - 10.0Sec)
